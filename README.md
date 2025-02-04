@@ -1,2 +1,2 @@
 # CSC-442
-Demo for Introuction to data science
+Demo for Introduction to data science
